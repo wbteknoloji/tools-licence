@@ -60,9 +60,7 @@ Tools Licence is a trusted online marketplace for discounted software licenses a
 ## Contact
 
 - **Website:** [tools-licence.com](https://tools-licence.com)
-- **Email:** info@webtools.com.tr
-- **Phone:** 0850 222 22 22
-- **Address:** Merkez Mahallesi, Teknoloji Caddesi No:123, 34000 Istanbul, Turkey
+- **Email:** info@tools-licence.com
 
 ---
 
